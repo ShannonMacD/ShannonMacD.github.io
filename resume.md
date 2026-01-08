@@ -14,7 +14,7 @@
 
 Microsoft Office Suite, Google Suite, ArcGIS and QGIS, Java coding and RStudio/RMarkdown, Bluebeam, Public speaking, Communication, Research, Data Analytics, Leadership, Collaboration, and Project Management.
 
-# Education 
+# Education  
 
 ## University of Washington (Seattle, WA)
 ### Bachelor of Arts in Community Environment Planning
