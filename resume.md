@@ -32,7 +32,7 @@ Microsoft Office Suite, Google Suite, ArcGIS and QGIS, Java coding and RStudio/R
 ### Associate of Arts and Science
 
 - Graduated June 2023, GPA: 3.9
-- Relevant Coursework: International Relations, Calculus, Research Paper Writing, Interior Design 
+- Relevant Coursework: International Relations, Calculus, Research Paper Writing, Interior Design. 
 
 # Work Experience
 
